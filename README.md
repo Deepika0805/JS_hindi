@@ -1,2 +1,2 @@
 # JS_hindi
-Acode repo for javascipt series 
+A code repo for javascipt series 
